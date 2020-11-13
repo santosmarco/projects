@@ -5,7 +5,7 @@ Here you will find all the programming projects I have done throughout my life, 
 
 ---
 
-## Table of Contents / Índice
+## Table of Contents
 
 - [Professional Projects](#professional-projects)
 - [Hackathon Projects](#hackathon-projects)
@@ -15,7 +15,8 @@ Here you will find all the programming projects I have done throughout my life, 
 
 ## Professional Projects
 
-sss
+1. [Nova A3's Invoice & Packing List Generator](https://na3-comex-invpl.web.app)  
+This React project consists of a Bootstrapped form linked to a Firebase's Firestore, through which one can generate an Invoice and a Packing List for 
 
 ## Hackathon Projects
 
