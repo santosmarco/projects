@@ -30,7 +30,7 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 
 ## Projetos Profissionais <sub><sup>_(1 projeto)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expandir</summary>
 
 ---
@@ -64,7 +64,7 @@ por meio do qual é possível gerar uma Invoice e um Packing List para certo pro
 
 ## Projetos de Hackathons <sub><sup>_(5 projetos)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expandir</summary>
 
 ---
@@ -195,7 +195,7 @@ Descrição sucinta
 
 ## Projetos de Google Startup Weekends <sub><sup>_(0 projeto)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expandir</summary>
 
 _Nenhum projeto cadastrado._
@@ -206,7 +206,7 @@ _Nenhum projeto cadastrado._
 
 ## Projetos Acadêmicos <sub><sup>_(0 projeto)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expandir</summary>
 
 _Nenhum projeto cadastrado._
