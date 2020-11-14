@@ -1,7 +1,8 @@
-[Clique aqui para ver em português.](https://github.com/santosmarco/projects/blob/main/README-ptbr.md)
-
 # My Projects
-Here you will find all the programming projects I have done throughout my life, either academically or professionally.  
+
+Here you will find all the programming projects I have done throughout my life, either academically or professionally.
+
+[_Clique aqui para ver em português._](https://github.com/santosmarco/projects/blob/main/README-ptbr.md)
 
 ---
 
@@ -16,7 +17,7 @@ Here you will find all the programming projects I have done throughout my life, 
 ## Professional Projects
 
 1. [Nova A3's Invoice & Packing List Generator](https://na3-comex-invpl.web.app)  
-This React project consists of a Bootstrapped form linked to a Firebase's Firestore, through which one can generate an Invoice and a Packing List for 
+   This React project consists of a Bootstrapped form linked to a Firebase's Firestore, through which one can generate an Invoice and a Packing List for
 
 ## Hackathon Projects
 
