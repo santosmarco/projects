@@ -151,9 +151,12 @@ Os artistas que receberem mais likes terão suas músicas apresentadas mais veze
 
 ![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Trilha: Desafio 2](https://img.shields.io/badge/Trilha-Desafio%202-informational) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/julioc98/anbima)_
+**[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/23cccc73-d321-4739-904c-1eee5b5e384b.pdf)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/julioc98/anbima)_
 
-> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
+> **Notas:**
+>
+> - _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
+> - _O_ front-end _da aplicação desenvolvida neste hackathon não foi hospedado, por isso o link para o projeto está indisponível._
 
 Processos longos, custosos e de alta demanda operacional são muito comuns na organização de fundos de investimento. Analisando dois _players_ vitais dessa indústria – o administrador e a controladoria – a FundData utiliza IA e Machine Learning para centralizar dados, com o objetivo de agilizar o intercâmbio de informações (reduzindo, dessa forma, o trabalho e os custos do _back-office_) e verificar inconsistências e possíveis valores fraudulentos.
 
@@ -177,7 +180,7 @@ Processos longos, custosos e de alta demanda operacional são muito comuns na or
 
 ![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: Uber HACK 2019)](https://img.shields.io/badge/Hackathon-Uber%20HACK%202019-informational)](https://www.uber.com/br/pt-br/u/uberhack/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: Python](https://img.shields.io/badge/Tecnologia-Python-blueviolet)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/23cccc73-d321-4739-904c-1eee5b5e384b.pdf)_ • _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
+**[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/23cccc73-d321-4739-904c-1eee5b5e384b.pdf)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
 
 > **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
 
