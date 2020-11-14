@@ -25,6 +25,8 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
   - [Lavaki](#1-lavaki)
   - [EduKids](#2-edukids)
 - [Projetos Acadêmicos](#projetos-academicos-0-projeto) _(0)_
+  - [freeCodeCamp](#freeCodeCamp) _(1)_
+    - [Projeto-teste](#1-projeto-teste)
 
 </details>
 
@@ -151,12 +153,11 @@ Os artistas que receberem mais likes terão suas músicas apresentadas mais veze
 
 ![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Trilha: Desafio 2](https://img.shields.io/badge/Trilha-Desafio%202-informational) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
 
-**[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/23cccc73-d321-4739-904c-1eee5b5e384b.pdf)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/julioc98/anbima)_
+**[Baixar apresentação](https://drive.google.com/file/d/1wBcTphcFpxCngLK2nMUoyLYHTQEtNUtl/view?usp=sharing)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir à demo](https://drive.google.com/file/d/1uNt0K7ZnaFenLkVwDGOonKRKMAgYmcQo/view?usp=sharing)_ • _[Acessar repositório](https://github.com/julioc98/anbima)_
 
-> **Notas:**
->
-> - _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
-> - _O_ front-end _da aplicação desenvolvida neste hackathon não foi hospedado, por isso o link para o projeto está indisponível._
+> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais geralmente impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
+
+> **Nota:** _O_ front-end _da aplicação desenvolvida neste hackathon não foi hospedado, por isso o link para o projeto não está relacionado._
 
 Processos longos, custosos e de alta demanda operacional são muito comuns na organização de fundos de investimento. Analisando dois _players_ vitais dessa indústria – o administrador e a controladoria – a FundData utiliza IA e Machine Learning para centralizar dados, com o objetivo de agilizar o intercâmbio de informações (reduzindo, dessa forma, o trabalho e os custos do _back-office_) e verificar inconsistências e possíveis valores fraudulentos.
 
@@ -182,7 +183,9 @@ Processos longos, custosos e de alta demanda operacional são muito comuns na or
 
 **[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/23cccc73-d321-4739-904c-1eee5b5e384b.pdf)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
 
-> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
+> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais geralmente impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
+
+> **Nota:** _O_ front-end _da aplicação desenvolvida neste hackathon não foi hospedado, por isso o link para o projeto não está relacionado._
 
 Descrição sucinta
 
@@ -226,7 +229,7 @@ Diferentemente da maioria dos Projetos de Hackathons, acima apresentados, os lin
 
 ![Colocação: Campeão](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-%E2%98%85%20Campe%C3%A3o-success) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: Mobile](https://img.shields.io/badge/Tecnologia-Mobile-blueviolet)
 
-**[Baixar apresentação](https://www.pdfhost.net/index.php?Action=DownloadFile&id=3893ef798be1a47207957eb65571a717)**
+**[Baixar apresentação](https://drive.google.com/file/d/1Q3h0EQQ3i-B5gwBBiBOYqtxTVHXgjC84/view?usp=sharing)**
 
 Descrição sucinta
 
@@ -272,9 +275,31 @@ Descrição sucinta
 
 ## Projetos Acadêmicos <sub><sup>_(0 projeto)_</sup></sub>
 
+### freeCodeCamp
+
 <details open>
     <summary>Expandir</summary>
 
-_Nenhum projeto cadastrado._
+---
+
+#### **1. Projeto-teste**
+
+![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) ![Cargo: Business](https://img.shields.io/badge/Cargo-Business-9cf)
+
+Descrição sucinta
+
+<details>
+<summary>Ver contexto</summary>
+
+**Contexto:** Contexto do hacka (desafio)
+
+</details>
+
+<details>
+<summary>Ver solução detalhada</summary>
+
+**Solução:** Detalhamento da solução
+
+</details>
 
 </details>
