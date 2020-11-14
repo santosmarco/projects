@@ -1,8 +1,12 @@
 # My Projects
 
+> [_Clique aqui para ver em português._](https://github.com/santosmarco/projects/blob/main/README-ptbr.md)
+
 Here you will find all the programming projects I have done throughout my life, either academically or professionally.
 
-[_Clique aqui para ver em português._](https://github.com/santosmarco/projects/blob/main/README-ptbr.md)
+![GitHub: Follow](https://img.shields.io/github/followers/santosmarco?label=Follow&style=social)&nbsp;&nbsp;&nbsp;![Twitter: Follow](https://img.shields.io/twitter/follow/santosmarco_?label=Follow&style=social)
+
+> **Note:** This page has not been fully translated yet – please prefer to use the [pt-br version of this file](https://github.com/santosmarco/projects/blob/main/README-ptbr.md).
 
 ---
 
@@ -10,19 +14,71 @@ Here you will find all the programming projects I have done throughout my life, 
 
 - [Professional Projects](#professional-projects)
 - [Hackathon Projects](#hackathon-projects)
+- [Google Startup Weekends Projects](#google-startup-weekends-projects)
 - [Academical Projects](#academical-projects)
 
 ---
 
-## Professional Projects
+## Professional Projects <sub><sup>_(1 project)_</sup></sub>
 
-1. [Nova A3's Invoice & Packing List Generator](https://na3-comex-invpl.web.app)  
-   This React project consists of a Bootstrapped form linked to a Firebase's Firestore, through which one can generate an Invoice and a Packing List for
+<details>
+    <summary>Expand</summary>
 
-## Hackathon Projects
+---
 
-sss
+### 1. Invoice & Packing List Generator
 
-## Academical Projects
+[![Company: Nova A3](https://img.shields.io/badge/Empresa-Nova%20A3-informational)](https://www.novaa3.com.br)
 
-sss
+**[Go to project](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Go to repo](https://github.com/santosmarco/na3-comex-invpl)_
+
+_Under translation_
+
+<details>
+       <summary>See background</summary>
+
+**Background:** _Under translation_
+
+</details>
+
+<details>
+    <summary>See detailed solution</summary>
+
+**Solution:** _Under translation_
+
+</details>
+
+</details>
+
+---
+
+## Hackathon Projects <sub><sup>_(0 project)_</sup></sub>
+
+<details>
+    <summary>Expand</summary>
+
+_Nothing to see here..._
+
+</details>
+
+---
+
+## Google Startup Weekend Projects <sub><sup>_(0 project)_</sup></sub>
+
+<details>
+    <summary>Expand</summary>
+
+_Nothing to see here..._
+
+</details>
+
+---
+
+## Academical Projects <sub><sup>_(0 project)_</sup></sub>
+
+<details>
+    <summary>Expand</summary>
+
+_Nothing to see here..._
+
+</details>

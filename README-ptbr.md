@@ -28,7 +28,7 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 
 [![Empresa: Nova A3](https://img.shields.io/badge/Empresa-Nova%20A3-informational)](https://www.novaa3.com.br)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://na3-comex-invpl.web.app)_
+**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/santosmarco/na3-comex-invpl)_
 
 Esse projeto em React consiste em um formulário (Bootstrap) vinculado a uma Firestore (do Firebase),
 por meio do qual é possível gerar uma Invoice e um Packing List para certo processo de exportação.
@@ -60,7 +60,7 @@ por meio do qual é possível gerar uma Invoice e um Packing List para certo pro
 
 ### 1. GIDEN
 
-![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) [![Hackathon: Empreenda Getnet](https://img.shields.io/badge/Hackathon-Empreenda%20Getnet-informational)](https://www.hackathongetnet.com.br/)
+![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) [![Hackathon: Empreenda Getnet](https://img.shields.io/badge/Hackathon-Empreenda%20Getnet-informational)](https://www.hackathongetnet.com.br/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
 
 **[Acessar projeto](https://getnet-giden.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://www.youtube.com/watch?v=jdDH_98dt8A&feature=youtu.be)_ • _[Assistir à demo](https://www.youtube.com/watch?v=KtqKoDpqo58&feature=youtu.be)_ • _[Acessar repositório](https://github.com/Hacka-GIDEN)_
 
@@ -84,9 +84,9 @@ Um protótipo de chatbot desenvolvido em React que objetiva entender o negócio 
 
 ### 2. FoodHero
 
-![Colocação: 3º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-3%C2%BA-success) [![Hackathon: Desiderata (Obesidade Infantil)](<https://img.shields.io/badge/Hackathon-Desiderata%20(Obesidade%20Intantil)-informational>)](https://www.hackathonsaudeinfantil.com.br/)
+![Colocação: 3º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-3%C2%BA-success) [![Hackathon: Desiderata (Obesidade Infantil)](<https://img.shields.io/badge/Hackathon-Desiderata%20(Obesidade%20Intantil)-informational>)](https://www.hackathonsaudeinfantil.com.br/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
 
-**[Acessar projeto](https://hacka-foodhero.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/VuYAycbOKw8)_ • _[Assistir à demo](https://youtu.be/JyqimGBeSss)_
+**[Acessar projeto](https://hacka-foodhero.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/VuYAycbOKw8)_ • _[Assistir à demo](https://youtu.be/JyqimGBeSss)_ • _[Acessar repositório](https://github.com/santosmarco/hacka-foodhero)_
 
 Um jogo para smartphones onde o usuário ganha pontos e batalha contra outros jogadores reais a partir de objetivos in-game voltados à manutenção de uma dieta balanceada um estilo de vida saudável. Certificamos o cumprimento desses objetivos através de um algoritmo de ML capaz de reconhecer alimentos.
 
@@ -108,9 +108,9 @@ Um jogo para smartphones onde o usuário ganha pontos e batalha contra outros jo
 
 ### 3. RocketMusic
 
-![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: 2º Sony Music code/stage)](https://img.shields.io/badge/Hackathon-2%C2%BA%20Sony%20Music%20code/stage-informational)](https://www.codestage.com.br/)
+![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: 2º Sony Music code/stage)](https://img.shields.io/badge/Hackathon-2%C2%BA%20Sony%20Music%20code/stage-informational)](https://www.codestage.com.br/) ![Cargo: Business](https://img.shields.io/badge/Cargo-Business-9cf)
 
-**[Acessar projeto](https://sony-rocketmusic.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/YZe5zA4CQtA)_ • _[Assistir à demo](https://youtu.be/NA7MJ1UxRnA)_
+**[Acessar projeto](https://sony-rocketmusic.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/YZe5zA4CQtA)_ • _[Assistir à demo](https://youtu.be/NA7MJ1UxRnA)_ • _[Acessar repositório](https://github.com/rocketmusic)_
 
 RocketMusic é uma startup de coleta e tratamento de dados, que, através de Machine Learning, objetiva dar mais visibilidade aos artistas que não a conseguem, promovendo-os nas plataformas de streaming e indicando os melhores às gravadoras.
 
@@ -134,9 +134,9 @@ Os artistas que receberem mais likes terão suas músicas apresentadas mais veze
 
 ### 4. FundData
 
-![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/)
+![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_
+**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_ • _[Acessar repositório](https://github.com/julioc98/anbima)_
 
 Descrição sucinta
 
@@ -158,9 +158,9 @@ Descrição sucinta
 
 ### 5. Tô Indo
 
-![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: Uber 2019)](https://img.shields.io/badge/Hackathon-Uber%202019-informational)](https://www.uber.com/br/pt-br/u/uberhack/)
+![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: Uber 2019)](https://img.shields.io/badge/Hackathon-Uber%202019-informational)](https://www.uber.com/br/pt-br/u/uberhack/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_
+**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_ • _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
 
 Descrição sucinta
 
@@ -187,7 +187,7 @@ Descrição sucinta
 <details>
     <summary>Expandir</summary>
 
----
+_Nenhum projeto cadastrado._
 
 </details>
 
@@ -198,8 +198,6 @@ Descrição sucinta
 <details>
     <summary>Expandir</summary>
 
----
+_Nenhum projeto cadastrado._
 
 </details>
-
----
