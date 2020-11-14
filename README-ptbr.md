@@ -103,19 +103,19 @@ Um protótipo de chatbot desenvolvido em React que objetiva entender o negócio 
 
 **[Acessar projeto](https://hacka-foodhero.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/VuYAycbOKw8)_ • _[Assistir à demo](https://youtu.be/JyqimGBeSss)_ • _[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/6011408e-60c2-4965-98e1-fac27d5f9456.pdf)_ • _[Acessar repositório](https://github.com/santosmarco/hacka-foodhero)_
 
-Um jogo para smartphones onde o usuário ganha pontos e batalha contra outros jogadores reais a partir de objetivos in-game voltados à manutenção de uma dieta balanceada um estilo de vida saudável. Certificamos o cumprimento desses objetivos através de um algoritmo de ML capaz de reconhecer alimentos.
+Um jogo para smartphones onde o usuário ganha pontos e batalha contra outros jogadores reais a partir de objetivos in-game voltados à manutenção de uma dieta balanceada e um estilo de vida saudável. Certificamos o cumprimento desses objetivos através de um algoritmo de ML capaz de reconhecer alimentos.
 
 <details>
 <summary>Ver contexto</summary>
 
-**Contexto:** O desafio do hacka era desenvolver uma solução para tornar mais eficiente a coleta e o tratamento de informações que influenciem a obesidade infantil, como marcadores de consumo alimentar, dados antropométricos etc.
+**Contexto:** O desafio do hacka era desenvolver uma solução para tornar mais eficiente a coleta e o tratamento de informações que influenciam a obesidade infantil, como marcadores de consumo alimentar, dados antropométricos etc.
 
 </details>
 
 <details>
 <summary>Ver solução detalhada</summary>
 
-**Solução:** Entendemos que a ineficiência na coleta e no tratamentos desses tipos de dado se dá principalmente porque as crianças não tem ideia de como contribuir e os pais não tem vontade/tempo. Assim, desenvolvemos um jogo voltado ao público infanto-juvenil através do qual seus jogadores transmitem essas informações natural e imperceptivalmente aos órgãos interessados, sem atritos.
+**Solução:** Entendemos que a ineficiência na coleta e no tratamento desses tipos de dado se dá principalmente porque as crianças não tem ideia de como contribuir e os pais não tem vontade/tempo. Assim, desenvolvemos um jogo voltado ao público infanto-juvenil, através do qual seus jogadores transmitem essas informações natural e imperceptivalmente aos órgãos interessados, sem quaisquer atritos.
 
 </details>
 
@@ -127,7 +127,7 @@ Um jogo para smartphones onde o usuário ganha pontos e batalha contra outros jo
 
 **[Acessar projeto](https://sony-rocketmusic.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/YZe5zA4CQtA)_ • _[Assistir à demo](https://youtu.be/NA7MJ1UxRnA)_ • _[Baixar apresentação](https://storage.googleapis.com/shawee-production.appspot.com/shawee/projectfiles/9bcebf8f-9d90-473b-b3e5-0d9509095488.pdf)_ • _[Acessar repositório](https://github.com/rocketmusic)_
 
-RocketMusic é uma startup de coleta e tratamento de dados, que, através de Machine Learning, objetiva dar mais visibilidade aos artistas que não a conseguem, promovendo-os nas plataformas de streaming e indicando os melhores às gravadoras.
+RocketMusic é uma startup de coleta e tratamento de dados, que, através de Machine Learning, objetiva dar mais visibilidade aos artistas que não a conseguem, promovendo-os nas plataformas de _streaming_ e indicando os melhores às gravadoras.
 
 <details>
 <summary>Ver contexto</summary>
@@ -139,9 +139,9 @@ RocketMusic é uma startup de coleta e tratamento de dados, que, através de Mac
 <details>
 <summary>Ver solução detalhada</summary>
 
-**Solução:** Desenvolvemos uma ideia de um plugin para plataformas de streaming (Spotify, por exemplo) que, através de IA e Machine Learning, injeta, de forma esporádica e inteligente, músicas de artistas novatos nas playlists dos usuários.  
-Dependendo da interação do usuário com aquela música, entendemos se ele a curtiu ou não. Pulou logo nos primeiros segundos? Não curtiu. Ficou até o final? Curtiu!
-Os artistas que receberem mais likes terão suas músicas apresentadas mais vezes para aquele e outros usuários. Assim, os artistas crescem organicamente.
+**Solução:** Desenvolvemos uma ideia de um plugin para plataformas de _streaming_ (Spotify, por exemplo) que, através de IA e Machine Learning, injeta, de forma esporádica e inteligente, músicas de artistas novatos nas playlists dos usuários.  
+Dependendo da interação do usuário com aquela música, entendemos se ele a curtiu ou não. Pulou logo nos primeiros segundos? Não curtiu. Ficou até o final? Curtiu!  
+Os artistas que receberem mais likes terão suas músicas apresentadas mais vezes para aquele e outros usuários. Assim, promovemo-lo organicamente.
 
 </details>
 
@@ -149,18 +149,18 @@ Os artistas que receberem mais likes terão suas músicas apresentadas mais veze
 
 ### 4. FundData
 
-![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
+![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Trilha: Desafio 2](https://img.shields.io/badge/Trilha-Desafio%202-informational) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
 
 **[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/julioc98/anbima)_
 
 > **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch, pois eles são apresentados ao vivo._
 
-Descrição sucinta
+Processos longos, custosos e de alta demanda operacional são muito comuns na organização de fundos de investimento. Analisando dois _players_ vitais dessa indústria – o administrador e a controladoria – a FundData utiliza IA e Machine Learning para centralizar dados, com o objetivo de agilizar o intercâmbio de informações (reduzindo, dessa forma, o trabalho e os custos do _back-office_) e verificar inconsistências e possíveis valores fraudulentos.
 
 <details>
 <summary>Ver contexto</summary>
 
-**Contexto:** Contexto do hacka (desafio)
+**Contexto:** O desafio deste hacka era desenvolver uma solução inovadora para facilitar e melhorar a vida de quem presta serviços para os fundos de investimento.
 
 </details>
 
