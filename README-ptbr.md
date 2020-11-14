@@ -62,7 +62,7 @@ por meio do qual é possível gerar uma Invoice e um Packing List para certo pro
 
 ![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) [![Hackathon: Empreenda Getnet](https://img.shields.io/badge/Hackathon-Empreenda%20Getnet-informational)](https://www.hackathongetnet.com.br/)
 
-<a href="https://getnet-giden.web.app/" target="_blank"><strong>Acessar projeto</strong></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou:_[Assistir ao pitch](https://www.youtube.com/watch?v=jdDH_98dt8A&feature=youtu.be)_•_[Assistir à demo](https://www.youtube.com/watch?v=KtqKoDpqo58&feature=youtu.be)_•_[Acessar repositório](https://github.com/Hacka-GIDEN)_
+**[Acessar projeto](https://getnet-giden.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://www.youtube.com/watch?v=jdDH_98dt8A&feature=youtu.be)_ • _[Assistir à demo](https://www.youtube.com/watch?v=KtqKoDpqo58&feature=youtu.be)_ • _[Acessar repositório](https://github.com/Hacka-GIDEN)_
 
 Um protótipo de chatbot desenvolvido em React que objetiva entender o negócio de determinado microempreendedor e classificá-lo de acordo, com uma pontuação que vai de zero a mil.
 
