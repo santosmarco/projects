@@ -12,16 +12,22 @@ Here you will find all the programming projects I have done throughout my life, 
 
 ## Table of Contents
 
-- [Professional Projects](#professional-projects-1-project)
-- [Hackathon Projects](#hackathon-projects-0-project)
-- [Google Startup Weekends Projects](#google-startup-weekends-projects-0-project)
-- [Academical Projects](#academical-projects-0-project)
+<details open>
+<summary>Expand</summary>
+
+- [Professional Projects](#professional-projects-1-project) _(1)_
+  - [Invoice & Packing List Generator](#1-invoice--packing-list-generator)
+- [Hackathon Projects](#hackathon-projects-0-project) _(0)_
+- [Google Startup Weekends Projects](#google-startup-weekends-projects-0-project) _(0)_
+- [Academical Projects](#academical-projects-0-project) _(0)_
+
+</details>
 
 ---
 
 ## Professional Projects <sub><sup>_(1 project)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expand</summary>
 
 ---
@@ -54,7 +60,7 @@ _Under translation_
 
 ## Hackathon Projects <sub><sup>_(0 project)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expand</summary>
 
 _Nothing to see here..._
@@ -65,7 +71,7 @@ _Nothing to see here..._
 
 ## Google Startup Weekend Projects <sub><sup>_(0 project)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expand</summary>
 
 _Nothing to see here..._
@@ -76,7 +82,7 @@ _Nothing to see here..._
 
 ## Academical Projects <sub><sup>_(0 project)_</sup></sub>
 
-<details>
+<details open>
     <summary>Expand</summary>
 
 _Nothing to see here..._

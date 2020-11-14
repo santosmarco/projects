@@ -21,7 +21,9 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
   - [RocketMusic](#3-rocketmusic)
   - [FundData](#4-funddata)
   - [Tô Indo](#5-tô-indo)
-- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends-0-projeto) _(0)_
+- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends-0-projeto) _(2)_
+  - [Lavaki](#1-lavaki)
+  - [EduKids](#2-edukids)
 - [Projetos Acadêmicos](#projetos-academicos-0-projeto) _(0)_
 
 </details>
@@ -197,12 +199,65 @@ Descrição sucinta
 
 ---
 
-## Projetos de Google Startup Weekends <sub><sup>_(0 projeto)_</sup></sub>
+## Projetos de Google Startup Weekends <sub><sup>_(2 projetos)_</sup></sub>
 
 <details open>
     <summary>Expandir</summary>
 
-_Nenhum projeto cadastrado._
+---
+
+### _Nota_
+
+Diferentemente da maioria dos Projetos de Hackathons, acima apresentados, os links para o projeto, repositório, vídeo pitch e vídeo demo _não_ estão relacionados em nenhum dos projetos abaixo. Isso porque:
+
+- Programar não é necessário em Google Startup Weekends; e
+- Eventos presenciais impossibilitam o compartilhamento do pitch, que é realizado ao vivo.
+
+---
+
+### 1. Lavaki
+
+![Colocação: Campeão](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-%E2%98%85%20Campe%C3%A3o-success) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: Mobile](https://img.shields.io/badge/Tecnologia-Mobile-blueviolet)
+
+**[Baixar apresentação](https://www.pdfhost.net/index.php?Action=DownloadFile&id=3893ef798be1a47207957eb65571a717)**
+
+Descrição sucinta
+
+<details>
+<summary>Ver contexto</summary>
+
+**Contexto:** Contexto do hacka (desafio)
+
+</details>
+
+<details>
+<summary>Ver solução detalhada</summary>
+
+**Solução:** Detalhamento da solução
+
+</details>
+
+---
+
+### 2. EduKids
+
+![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) ![Cargo: Business](https://img.shields.io/badge/Cargo-Business-9cf)
+
+Descrição sucinta
+
+<details>
+<summary>Ver contexto</summary>
+
+**Contexto:** Contexto do hacka (desafio)
+
+</details>
+
+<details>
+<summary>Ver solução detalhada</summary>
+
+**Solução:** Detalhamento da solução
+
+</details>
 
 </details>
 
