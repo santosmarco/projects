@@ -37,7 +37,7 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 
 ### 1. Gerador de Invoices & Packing Lists
 
-[![Empresa: Nova A3](https://img.shields.io/badge/Empresa-Nova%20A3-informational)](https://www.novaa3.com.br)
+[![Empresa: Nova A3](https://img.shields.io/badge/Empresa-Nova%20A3-informational)](https://www.novaa3.com.br) ![Tecnologias: React + Firebase](https://img.shields.io/badge/Tecnologias-React%20+%20Firebase-blueviolet)
 
 **[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/santosmarco/na3-comex-invpl)_
 
@@ -71,7 +71,7 @@ por meio do qual é possível gerar uma Invoice e um Packing List para certo pro
 
 ### 1. GIDEN
 
-![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) [![Hackathon: Empreenda Getnet](https://img.shields.io/badge/Hackathon-Empreenda%20Getnet-informational)](https://www.hackathongetnet.com.br/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
+![Colocação: 2º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-2%C2%BA-success) [![Hackathon: Empreenda Getnet](https://img.shields.io/badge/Hackathon-Empreenda%20Getnet-informational)](https://www.hackathongetnet.com.br/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: React](https://img.shields.io/badge/Tecnologia-React-blueviolet)
 
 **[Acessar projeto](https://getnet-giden.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://www.youtube.com/watch?v=jdDH_98dt8A&feature=youtu.be)_ • _[Assistir à demo](https://www.youtube.com/watch?v=KtqKoDpqo58&feature=youtu.be)_ • _[Acessar repositório](https://github.com/Hacka-GIDEN)_
 
@@ -95,7 +95,7 @@ Um protótipo de chatbot desenvolvido em React que objetiva entender o negócio 
 
 ### 2. FoodHero
 
-![Colocação: 3º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-3%C2%BA-success) [![Hackathon: Desiderata (Obesidade Infantil)](<https://img.shields.io/badge/Hackathon-Desiderata%20(Obesidade%20Intantil)-informational>)](https://www.hackathonsaudeinfantil.com.br/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
+![Colocação: 3º Lugar](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-3%C2%BA-success) [![Hackathon: Saúde Infantil (Desiderata)](<https://img.shields.io/badge/Hackathon-Sa%C3%BAde%20Infantil%20(Desiderata)-informational>)](https://www.hackathonsaudeinfantil.com.br/) ![Trilha: Obesidade Infantil](https://img.shields.io/badge/Trilha-Obesidade%20Infantil-informational) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: React](https://img.shields.io/badge/Tecnologia-React-blueviolet)
 
 **[Acessar projeto](https://hacka-foodhero.web.app/)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://youtu.be/VuYAycbOKw8)_ • _[Assistir à demo](https://youtu.be/JyqimGBeSss)_ • _[Acessar repositório](https://github.com/santosmarco/hacka-foodhero)_
 
@@ -147,7 +147,9 @@ Os artistas que receberem mais likes terão suas músicas apresentadas mais veze
 
 ![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: ANBIMA)](https://img.shields.io/badge/Hackathon-ANBIMA-informational)](https://hackathon.anbima.com.br/) ![Cargo: UX](https://img.shields.io/badge/Cargo-UX-ff69b4)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_ • _[Acessar repositório](https://github.com/julioc98/anbima)_
+**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/julioc98/anbima)_
+
+> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch._
 
 Descrição sucinta
 
@@ -169,9 +171,11 @@ Descrição sucinta
 
 ### 5. Tô Indo
 
-![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: Uber 2019)](https://img.shields.io/badge/Hackathon-Uber%202019-informational)](https://www.uber.com/br/pt-br/u/uberhack/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet)
+![Colocação: Participante](https://img.shields.io/badge/Coloca%C3%A7%C3%A3o-Participante-green) [![Hackathon: Uber 2019)](https://img.shields.io/badge/Hackathon-Uber%202019-informational)](https://www.uber.com/br/pt-br/u/uberhack/) ![Cargo: Dev](https://img.shields.io/badge/Cargo-Dev-blueviolet) ![Tecnologia: Python](https://img.shields.io/badge/Tecnologia-Python-blueviolet)
 
-**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Assistir ao pitch](https://na3-comex-invpl.web.app)_ • _[Assistir à demo](https://na3-comex-invpl.web.app)_ • _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
+**[Acessar projeto](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Acessar repositório](https://github.com/esterribeiro/uberhack)_
+
+> **Nota:** _Este hackathon aconteceu presencialmente. Hackathons presenciais impossibilitam o compartilhamento dos vídeos de demonstração e pitch._
 
 Descrição sucinta
 
