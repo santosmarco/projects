@@ -28,9 +28,9 @@ Here you will find all the programming projects I have done throughout my life, 
 
 ### 1. Invoice & Packing List Generator
 
-[![Company: Nova A3](https://img.shields.io/badge/Empresa-Nova%20A3-informational)](https://www.novaa3.com.br)
+[![Company: Nova A3](https://img.shields.io/badge/Company-Nova%20A3-informational)](https://www.novaa3.com.br)
 
-**[Go to project](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| ou: _[Go to repo](https://github.com/santosmarco/na3-comex-invpl)_
+**[Go to project](https://na3-comex-invpl.web.app)**&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| or: _[Go to repo](https://github.com/santosmarco/na3-comex-invpl)_
 
 _Under translation_
 

@@ -10,10 +10,21 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 
 ## Índice
 
-- [Projetos Profissionais](#projetos-profissionais-1-projeto)
-- [Projetos de Hackathons](#projetos-de-hackathons-5-projetos)
-- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends-0-projeto)
-- [Projetos Acadêmicos](#projetos-academicos-0-projeto)
+<details open>
+<summary>Expandir</summary>
+
+- [Projetos Profissionais](#projetos-profissionais-1-projeto) _(1)_
+  - [Gerador de Invoices & Packing Lists](#1-gerador-de-invoices--packing-lists)
+- [Projetos de Hackathons](#projetos-de-hackathons-5-projetos) _(5)_
+  - [GIDEN](#1-giden)
+  - [FoodHero](#2-foodhero)
+  - [RocketMusic](#3-rocketmusic)
+  - [FundData](#4-funddata)
+  - [Tô Indo](#5-tô-indo)
+- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends-0-projeto) _(0)_
+- [Projetos Acadêmicos](#projetos-academicos-0-projeto) _(0)_
+
+</details>
 
 ---
 
