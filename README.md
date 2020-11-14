@@ -12,10 +12,10 @@ Here you will find all the programming projects I have done throughout my life, 
 
 ## Table of Contents
 
-- [Professional Projects](#professional-projects)
-- [Hackathon Projects](#hackathon-projects)
-- [Google Startup Weekends Projects](#google-startup-weekends-projects)
-- [Academical Projects](#academical-projects)
+- [Professional Projects](#professional-projects-1-project)
+- [Hackathon Projects](#hackathon-projects-0-project)
+- [Google Startup Weekends Projects](#google-startup-weekends-projects-0-project)
+- [Academical Projects](#academical-projects-0-project)
 
 ---
 

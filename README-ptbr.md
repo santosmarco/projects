@@ -10,10 +10,10 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 
 ## Índice
 
-- [Projetos Profissionais](#projetos-profissionais)
-- [Projetos de Hackathons](#projetos-de-hackathons)
-- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends)
-- [Projetos Acadêmicos](#projetos-academicos)
+- [Projetos Profissionais](#projetos-profissionais-1-projeto)
+- [Projetos de Hackathons](#projetos-de-hackathons-5-projetos)
+- [Projetos de Google Startup Weekends](#projetos-de-google-startup-weekends-0-projeto)
+- [Projetos Acadêmicos](#projetos-academicos-0-projeto)
 
 ---
 
