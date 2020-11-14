@@ -13,6 +13,8 @@ Aqui você encontrará todos os projetos de programação que já desenvolvi, ta
 <details open>
 <summary>Expandir</summary>
 
+---
+
 - [Projetos Profissionais](#projetos-profissionais-1-projeto) _(1)_
   - [Gerador de Invoices & Packing Lists](#1-gerador-de-invoices--packing-lists)
 - [Projetos de Hackathons](#projetos-de-hackathons-5-projetos) _(5)_
